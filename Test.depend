@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1535337520 source:d:\mathieu\test\case.c
+	"Case.h"
+
+1535337431 d:\mathieu\test\case.h
+
+1535337326 source:d:\mathieu\test\grid.c
+	"Grid.h"
+	<math.h>
+
+1535007771 d:\mathieu\test\grid.h
+	"Case.h"
+	<stdlib.h>
+	<stdio.h>
+
+1535007771 source:d:\mathieu\test\gridh.c
+
+1535330845 source:d:\mathieu\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils/File.h"
+	"Grid.h"
+
+1535007771 d:\mathieu\test\utils\file.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535007771 source:d:\mathieu\test\utils\file.c
+	"File.h"
+
